@@ -1,6 +1,6 @@
 <!-- Title Section -->
 <h1 align="center">🛡️ Cybersecurity SOC Analyst Lab Portfolio</h1>
-<h1 align="center"><a href="https://linkedin.com/prince-owoahene"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center"><a href="https://www.linkedin.com/prince-owoahene"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Hi, I'm Prince!
 
