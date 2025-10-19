@@ -4,14 +4,13 @@
 
 # Hi, I'm Prince!
 
-A **CompTIA Security+ certified Cybersecurity Professional** with hands-on SOC operations experience built through self-designed **home lab projects**.  
+A **CompTIA Security+ certified Cybersecurity Professional** with hands-on SOC operations experience built through advanced self-designed **home lab projects**.  
+My focus is on **threat detection, log analysis, and incident response** using modern security technologies such as **SIEMs, EDR tools, and IDS/IPS solutions**.
 
-## Objective
-My passion is defending digital environments through:  
-- 🔍 Threat Detection & Log Analysis  
-- 🧠 Incident Response & Threat Hunting  
-- ⚙️ SIEM Implementation & Alert Tuning 
-
-Each project simulates **real SOC workflows**, following industry frameworks like **MITRE ATT&CK**, **NIST**, and **CIS Controls*
+These labs demonstrate my ability to:
+- Detect and analyze cyber threats in simulated SOC environments  
+- Build and monitor SIEM dashboards for alert correlation  
+- Conduct endpoint and network forensics  
+- Apply frameworks such as **MITRE ATT&CK**, **NIST**, and **CIS Controls**
 
 ## Skills
