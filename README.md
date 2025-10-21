@@ -4,15 +4,20 @@
 
 # Hi, I'm Prince!
 
-A **CompTIA Security+ certified Cybersecurity Professional** with hands-on SOC operations experience built through advanced self-designed **home lab projects**.  
+Welcome to my Cybersecurity SOC Analyst Home Lab Portfolio - a comprehensive showcase of my practical experience in simulating real-world threat detection, incident response, and security monitoring using enterprise-grade tools and industry frameworks.
 
-My focus is on **threat detection, incident response**, and log analysis using modern security technologies such as **SIEMs, EDR tools, and IDS/IPS solutions**.
+----
 
+I am a CompTIA Security+ certified Cybersecurity Professional with hands-on SOC operations experience built through advanced self-designed **home lab projects**.
+
+----
+
+My focus is on threat detection, incident response, and log analysis using modern security technologies such as SIEMs, EDR tools, and IDS/IPS solutions.
 These projects demonstrate my ability to:
-- Detect and analyze cyber threats in simulated SOC environments  
-- Build and monitor SIEM dashboards for alert correlation  
-- Conduct endpoint and network forensics  
-- Apply frameworks such as **MITRE ATT&CK**, **NIST**, and **CIS Controls**
+    • Detect and analyze cyber threats in simulated SOC environments
+    • Build and monitor SIEM dashboards for alert correlation
+    • Conduct endpoint and network forensics
+    • Apply frameworks such as MITRE ATT&CK, NIST, and CIS Controls
 
 ## Skills
 
@@ -34,15 +39,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Home SOC Monitoring Lab with Wazuh (SIEM Implementation)|  <a href="https://google.com">Security Monitoring Lab</a>|
+| Network Threat Monitoring with Security Onion and Zeek |  <a href="https://google.com">Security Monitoring Lab</a>|
+| Detecting Brute Force Logins with Splunk  |  <a href="https://google.com">Threat Detection Lab</a>|
+| Malware Beaconing using Zeek and ELK | <a href="https://google.com">Threat Detection Lab</a>|
+| Phishing Email Incident Response and IOC Analysis       | <a href="https://google.com">Incident Response Lab</a>|
+| Windows Malware Incident Response Simulation    | <a href="https://google.com">Incident Response Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+
+
 
 ### Network
 <div>
@@ -83,7 +92,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Cybersecurity SOC Analyst Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -135,12 +144,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-
-
-
