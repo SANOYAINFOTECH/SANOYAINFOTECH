@@ -91,7 +91,7 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 
 [<img align="left" alt="PrinceOwoahene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/prince-owoahene
+[linkedin]:https://www.linkedin.com/in/prince-owoahene/?trk=public-profile-join-page
 
-<!--
+
 
