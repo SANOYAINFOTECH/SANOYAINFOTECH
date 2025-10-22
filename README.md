@@ -69,7 +69,7 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 ---
 
 ### <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <a href="https://google.com">Home SOC Monitoring Lab with Wazuh (SIEM Implementation)</a>
+- <a href="https://github.com/SANOYAINFOTECH/Home-SOC-Monitoring-Lab-with-Wazuh-SIEM-Implementation-/tree/main">Home SOC Monitoring Lab with Wazuh (SIEM Implementation)</a>
 - <a href="https://google.com"> Network Threat Monitoring with Security Onion and Zeek</a>
 - <a href="https://google.com">Detecting Brute Force Logins with Splunk</a>
 - <a href="https://google.com">Malware Beaconing using Zeek and ELK</a>
