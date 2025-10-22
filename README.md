@@ -8,13 +8,8 @@ Welcome to my Cybersecurity SOC Analyst Home Lab Portfolio - a comprehensive sho
 I am a CompTIA Security+ certified Cybersecurity Professional with hands-on SOC operations experience gained through advanced, self-designed home lab projects.
 
 My focus is on threat detection, incident response, and log analysis using modern security technologies, including SIEMs, EDR tools, and IDS/IPS solutions.
-These projects demonstrate my ability to:
-   
-    • Detect and analyze cyber threats in a simulated SOC environment
-    • Build and monitor SIEM dashboards for alert correlation
-    • Conduct endpoint and network forensics
-    • Apply frameworks such as MITRE ATT&CK, NIST, and CIS Controls
-
+These projects demonstrate my ability to: **Detect and analyze cyber threats in a simulated SOC environment**, **Build and monitor SIEM dashboards for alert correlation**, **Conduct endpoint and network forensics**, **Apply frameworks such as MITRE ATT&CK, NIST, and CIS Controls**.
+  
 ----
 
 ###  <h2>✍🏻 Skills</h2>  
