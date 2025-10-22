@@ -1,16 +1,11 @@
 <!-- Title Section -->
 <h1 align="center">🛡️ Cybersecurity SOC Analyst Lab Portfolio</h1>
-<h1 align="center"><a href="https://www.linkedin.com/prince-owoahene"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Hi, I'm Prince!
 
 Welcome to my Cybersecurity SOC Analyst Home Lab Portfolio - a comprehensive showcase of my practical experience in simulating real-world threat detection, incident response, and security monitoring using enterprise-grade tools and industry frameworks.
 
-----
-
 I am a CompTIA Security+ certified Cybersecurity Professional with hands-on SOC operations experience gained through advanced, self-designed home lab projects.
-
-----
 
 My focus is on threat detection, incident response, and log analysis using modern security technologies, including SIEMs, EDR tools, and IDS/IPS solutions.
 These projects demonstrate my ability to:
@@ -22,13 +17,13 @@ These projects demonstrate my ability to:
 
 ----
 
-### Skills
+###  <h2>✍🏻 Skills</h2>  
 
 Security Monitoring & Incident Response | Threat Detection & Analysis | Security Frameworks & Standards | Endpoint & Network Security | Vulnerability Management | Scripting & Automation | Threat Intelligence | 
 
 ----
 
-### Tools & Technologies
+### <h2>🛠 Tools & Technologies</h2>  
 
 ### SIEM
 <div>
@@ -67,13 +62,13 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 
 ---
 
-## Certifications
+### <h2>📰 Certifications</h2>   
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ---
 
-## Projects
+### <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <a href="https://google.com">Home SOC Monitoring Lab with Wazuh (SIEM Implementation)</a>
 - <a href="https://google.com"> Network Threat Monitoring with Security Onion and Zeek</a>
 - <a href="https://google.com">Detecting Brute Force Logins with Splunk</a>
@@ -92,6 +87,5 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 [<img align="left" alt="PrinceOwoahene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/prince-owoahene/?trk=public-profile-join-page
-
 
 
