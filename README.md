@@ -29,16 +29,6 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 ----
 
 ### Tools & Technologies
-| Category | Tools / Platforms |
-|-----------|------------------|
-| **SIEM Platforms** | Splunk, QRadar, Elastic|
-| **EDR Solutions** | CrowdStrike Falcon, Carbon Black |
-| **IDS/IPS** | Snort, Suricata |
-| **Network Analysis** | Wireshark, Zeek | TCPdump, ELK Stack |
-| **Operating Systems** | Kali Linux, Windows Server, Ubuntu |
-| **Virtualization** | Proxmox, VMware Pro Workstation |
-| **Scripting & Automation** | Python, Bash, powershell |
-
 
 ### SIEM
 <div>
@@ -74,27 +64,6 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
-    
-    
-    
-    
-    
-    
-    
-    
-    • Threat Detection & Analysis: Threat Hunting, Malware, Phishing, and Social Engineering indicators, Log Analysis, Packet Capture (Wireshark, TCPdump), Zeek, and ELK Stack
-    • Security Frameworks & Standards: MITRE ATT&CK, CIS Controls, Lockheed Cyber Kill Chain, Diamond Model, NIST CSF, ISO 27001
-    • Endpoint & Network Security: EDR Tools (CrowdStrike, SentinelOne), Ms Defender, Firewalls, Antivirus Solutions, Windows Security Logs, Network Traffic Monitoring
-    • Vulnerability Management: Tenable Nessus, OpenVAS, Patch Management, Risk Assessment, System Hardening
-    • Scripting & Automation: Python, PowerShell, Bash
-    • Threat Intelligence: AlienVault OTX, MISP, OSINT Analysis
-    • Soft Skills: Analytical Thinking, Collaboration, Documentation, Communication, Adaptability
-
-
-
-
-
-
 
 ---
 
@@ -116,16 +85,13 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="PrinceOwoahene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/prince-owoahene
+
+<!--
+
