@@ -46,6 +46,7 @@ Security Monitoring & Incident Response | Threat Detection & Analysis | Security
     <img src="https://img.shields.io/badge/-TCPdump-005C84?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Onion-005C84?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### Operating Systems
